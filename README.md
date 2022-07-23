@@ -1,5 +1,6 @@
 # Cookies and Sessions
 
+
 ## Learning Goals
 
 - Explain what a cookie is and what cookies can be used for
